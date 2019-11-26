@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Strona na GitHub</title>
+</head>
+<body>
+<p>przykladowy akapit</p>
+</body>
+</html>
